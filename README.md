@@ -5,7 +5,8 @@ A simple web-based quiz to test your English vocabulary (perfect for SSC CGL pre
 ![Quiz Screenshot](https://via.placeholder.com/600x400?text=Quiz+Preview) *(Upload a screenshot later)*
 
 ## Features
-- Multiple-choice questions
+- Multiple-choice questions![Screenshot 2025-03-29 125624](https://github.com/user-attachments/assets/9d4aeefc-0a10-40eb-b1d4-3099a3cadf01)
+
 - Right/Wrong answer feedback
 - Score tracking
 - Responsive design
